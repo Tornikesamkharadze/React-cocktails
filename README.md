@@ -1,1 +1,1 @@
-[sever link](https://tornikesamkharadze-react-menu.netlify.app)
+[sever link](https://tornikesamkharadze-react-findcocktail.netlify.app)
